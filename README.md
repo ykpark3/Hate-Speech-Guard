@@ -23,6 +23,13 @@ Exposure to hate speech adversely affects 	children's emotional development and 
 
 HSG seeks to present with the functions of the next chapter a new 		method of education that can recognize, prevent, and cope with discrimination in freedom 	of expression and opinion. When children are defenselessly exposed to hate speech, they recognize it and help them 	cope with it. HSG filters and removes web text and video and provides them to users 		through an extension program. By using HSG, it will be possible to minimize the exposure 	of children's hate speech and help children to form correct values and emotions.<br><br>
 
+
+##  📚  Stack & Library
++ Edge/Crome Extenstions
++ Azure
++ TensorFlow <br><br>
+
+
 ##  📝  Features
 
 #### HSG is the Web Extension Program. When you download the program to the web browser you use, it will run automatically detect hate speech.
@@ -34,11 +41,6 @@ HSG checks the Hate Speech of the video in real time. First, HSG finds the text 
 ### 3. Option Selection
 HSG considers the degree of user freedom. The option page helps parents to discuss with their child how to recognize and deal with the hate speech through the selection of users (mute - not mute / display - no notification). This increases the effectiveness of education on hate speech recognition.<br><br>
 
-
-##  📚  Stack & Library
-+ Edge/Crome Extenstions
-+ Azure
-+ TensorFlow <br><br>
 
 ##  🖥️  Preview
 ### 1. Hate Speech Detection for Text
